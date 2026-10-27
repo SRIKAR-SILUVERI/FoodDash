@@ -1,0 +1,35 @@
+[
+  {
+    "id": "FD01017087",
+    "customer": {
+      "name": "syhs",
+      "phone": "0987654"
+    },
+    "address": "sr unkjhgf",
+    "paymentMethod": "Cash on delivery",
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Smash Burger",
+        "price": 189,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "price": 249,
+        "quantity": 1
+      }
+    ],
+    "total": 467,
+    "status": "Order received",
+    "statusHistory": [
+      {
+        "status": "Order received",
+        "at": "2026-10-27T11:36:57.087Z"
+      }
+    ],
+    "createdAt": "2026-10-27T11:36:57.087Z",
+    "estimatedDeliveryMinutes": 35
+  }
+]
